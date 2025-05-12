@@ -3,5 +3,3 @@ fpdf
 Pillow
 arabic_reshaper
 pyarabic
-os
-re
