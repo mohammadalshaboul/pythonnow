@@ -2,6 +2,6 @@ telebot
 fpdf
 Pillow
 arabic_reshaper
-pyarabic.araby
+pyarabic
 os
 re
