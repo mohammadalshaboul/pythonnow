@@ -1,9 +1,9 @@
 telebot
 fpdf
-Pil
+Pillow
 image
 arabic_reshaper
-pyarabic.araby
+pyarabic
 tokenize
 os
 re
