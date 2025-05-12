@@ -1,0 +1,9 @@
+telebot
+fpdf
+Pil
+image
+arabic_reshaper
+pyarabic.araby
+tokenize
+os
+re
