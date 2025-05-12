@@ -7,8 +7,6 @@ from pyarabic.araby import tokenize
 import os
 import re
 
-warnings.filterwarnings("ignore", category=UserWarning, module="fpdf")
-
 TOKEN = '8036700201:AAGpqoPxO2FcxDsgs38ZIqwMTaVTcqHY0Ko'
 bot = telebot.TeleBot(TOKEN)
 
